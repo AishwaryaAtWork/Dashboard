@@ -12,7 +12,7 @@ const Sidebar = ({children}) => {
                 
                 <Link href='/'>
                     <div className='bg-purple-800 text-white p-3 rounded-lg inline-block'>
-                        <RxSketchLogo size={15}/>
+                        <RxSketchLogo size={18}/>
                     </div>
                 </Link>
                 <span className='border-b-[1px] border-gray-200 w-full p-2'></span>
@@ -20,28 +20,28 @@ const Sidebar = ({children}) => {
                 <Link href='/'>
                     <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-3 p-3 
                             rounded-lg inline-block'>
-                        <RxDashboard size={15}/>
+                        <RxDashboard size={18}/>
                     </div>
                 </Link>
 
                 <Link href='/customers'>
                     <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-3 p-3 
                             rounded-lg inline-block'>
-                        <RxPerson size={15}/>
+                        <RxPerson size={18}/>
                     </div>
                 </Link>
 
                 <Link href='/orders'>
                     <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-3 p-3 
                             rounded-lg inline-block'>
-                        <HiOutlineShoppingBag size={15}/>
+                        <HiOutlineShoppingBag size={18}/>
                     </div>
                 </Link>
 
                 <Link href='/'>
                     <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-3 p-3 
                             rounded-lg inline-block'>
-                        <FiSettings size={15}/>
+                        <FiSettings size={18}/>
                     </div>
                 </Link>
             </div>

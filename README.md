@@ -4,7 +4,7 @@ A responsive dashboard with data and charts.
 
 
 ## Build with
-NEXT JS and Tailwind CSS.
+NEXT JS, Chart JS and Tailwind CSS.
 
 
 ## Screenshots
